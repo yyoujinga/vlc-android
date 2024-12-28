@@ -36,10 +36,7 @@ java-libs/appcompat/.project
 
 #gradle
 #gradle.properties
-gradlew.bat
-gradlew
-gradle/wrapper/
-.gradle/
+
 build/
 vlc-android/build/
 java-libs/WheelView/build/
